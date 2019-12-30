@@ -2,6 +2,10 @@
 
 For checking availability of domain in [GoDaddy](https://godaddy.com) using [selenium](https://selenium.dev/) based on your own wordlist
 
+## Demo
+
+![demo](demo.gif)
+
 ## Getting Started
 
 Are you tired checking domain availability one by one ? You come in right place. This app will allow you to check domain based on your wordlist. Read following guide to setup your app.
