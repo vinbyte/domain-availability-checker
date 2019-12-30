@@ -12,7 +12,8 @@ Are you tired checking domain availability one by one ? You come in right place.
 
 ### Prerequisites
 
-Make sure latest [NodeJS](https://nodejs.org/) is installed
+- Make sure latest [NodeJS](https://nodejs.org/) is installed
+- To running this app, you need to install browser(chrome) in the machine. For VPS (e.g digitalocean) with Ubuntu, you can run : `apt-get install chromium-browser`
 
 ### Config
 
