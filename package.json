@@ -1,0 +1,21 @@
+{
+  "name": "domain-checker",
+  "version": "1.0.0",
+  "description": "Domain Availability  Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rabbitmeow/domain-checker"
+  },
+  "author": "Gavinda Kinandana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chromedriver": "^79.0.0",
+    "promise": "^8.0.3",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
