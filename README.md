@@ -21,12 +21,13 @@ Take a look at `config.js`. There is all config for this app
 
 - show_browser : set `true` for showing browser window, set to `false` for headless browser
 - show_log: set `true` for showing log in console
-- timeout: timeout for waiting result or waiting loading page (in milisecond)
 - tld: add your TLD that will be checked
 
 ### Installing
 
 - Clone this repo
+- Make sure you have the latest version of NodeJs
+- Run `npx npm-check-updates -u` to check the latest version of dependencies (especially for chromedriver)
 - Run `npm install` to installing all dependencies
 - Add your word list into `wordlist.txt`
 - Run `node index.js`
