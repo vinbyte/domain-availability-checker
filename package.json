@@ -13,7 +13,7 @@
   "author": "Gavinda Kinandana",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chromedriver": "^83.0.0",
     "promise": "^8.1.0",
     "selenium-webdriver": "^3.6.0"
